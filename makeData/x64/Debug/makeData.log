@@ -1,0 +1,4 @@
+﻿  makedata.c
+C:\Users\milit\OneDrive\Υπολογιστής\Έτος4\Υπολογιστική Νοημοσύνη\Project\makeData\makedata.c(42,28): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+C:\Users\milit\OneDrive\Υπολογιστής\Έτος4\Υπολογιστική Νοημοσύνη\Project\makeData\makedata.c(40,34): warning C4244: 'initializing': conversion from 'double' to 'char', possible loss of data
+  makeData.vcxproj -> C:\Users\milit\OneDrive\Υπολογιστής\Έτος4\Υπολογιστική Νοημοσύνη\Project\x64\Debug\makeData.exe
