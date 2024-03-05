@@ -1,0 +1,14 @@
+﻿  Main.c
+  Perceptron.c
+C:\Users\milit\OneDrive\Υπολογιστής\Έτος4\Υπολογιστική Νοημοσύνη\Project\MLP\Perceptron.c(202,13): warning C4047: 'function': 'double *' differs in levels of indirection from 'double [30][3]'
+C:\Users\milit\OneDrive\Υπολογιστής\Έτος4\Υπολογιστική Νοημοσύνη\Project\MLP\Perceptron.c(202,13): warning C4024: 'init': different types for formal and actual parameter 1
+C:\Users\milit\OneDrive\Υπολογιστής\Έτος4\Υπολογιστική Νοημοσύνη\Project\MLP\Perceptron.c(203,13): warning C4047: 'function': 'double *' differs in levels of indirection from 'double [30][31]'
+C:\Users\milit\OneDrive\Υπολογιστής\Έτος4\Υπολογιστική Νοημοσύνη\Project\MLP\Perceptron.c(203,13): warning C4024: 'init': different types for formal and actual parameter 1
+C:\Users\milit\OneDrive\Υπολογιστής\Έτος4\Υπολογιστική Νοημοσύνη\Project\MLP\Perceptron.c(204,13): warning C4047: 'function': 'double *' differs in levels of indirection from 'double [30][31]'
+C:\Users\milit\OneDrive\Υπολογιστής\Έτος4\Υπολογιστική Νοημοσύνη\Project\MLP\Perceptron.c(204,13): warning C4024: 'init': different types for formal and actual parameter 1
+C:\Users\milit\OneDrive\Υπολογιστής\Έτος4\Υπολογιστική Νοημοσύνη\Project\MLP\Perceptron.c(205,13): warning C4047: 'function': 'double *' differs in levels of indirection from 'double [30][31]'
+C:\Users\milit\OneDrive\Υπολογιστής\Έτος4\Υπολογιστική Νοημοσύνη\Project\MLP\Perceptron.c(205,13): warning C4024: 'init': different types for formal and actual parameter 1
+C:\Users\milit\OneDrive\Υπολογιστής\Έτος4\Υπολογιστική Νοημοσύνη\Project\MLP\Perceptron.c(206,13): warning C4047: 'function': 'double *' differs in levels of indirection from 'double [4][31]'
+C:\Users\milit\OneDrive\Υπολογιστής\Έτος4\Υπολογιστική Νοημοσύνη\Project\MLP\Perceptron.c(206,13): warning C4024: 'init': different types for formal and actual parameter 1
+  Generating Code...
+  MLP.vcxproj -> C:\Users\milit\OneDrive\Υπολογιστής\Έτος4\Υπολογιστική Νοημοσύνη\Project\x64\Debug\MLP.exe
